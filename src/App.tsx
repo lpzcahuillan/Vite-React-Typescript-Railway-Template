@@ -16,7 +16,7 @@ function App() {
           </button>
         </p>
         <p>
-          Edit <code>App.tsx</code> and save to test HMR updates.
+          Calmao <code>App.tsx</code> ya voy a actualizar la wea.
         </p>
         <p>
           <a
